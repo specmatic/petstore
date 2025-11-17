@@ -2,7 +2,7 @@
   "sources": [
     {
       "provider": "git",
-      "repository": "https://github.com/znsio/petstore-contracts.git",
+      "repository": "https://github.com/specmatic/petstore-contracts.git",
       "test": [
         "in/specmatic/examples/petstore/api_petstore_v1.spec"
       ]
